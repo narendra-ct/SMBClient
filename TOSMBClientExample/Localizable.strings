@@ -1,0 +1,194 @@
+/*
+ Localizable.strings
+ UNO3_CommunicatorApp
+ 
+ Created by Ann MacPro on 14/12/15.
+ Copyright © 2015 Ann MacPro. All rights reserved.
+ */
+
+"title" = "Session";
+"search_Patient" = "Search Patient";
+"OK" = "OK";
+"Streaming_Video" = "Streaming Video";
+"Live_View_of" = "Live View of";
+"Alert_title" = "Alert!";
+"EmptyPatientLastName_Title" = "Enter Patient's Last Name";
+"EmptyPatientFirstName_Title" = "Enter Patient's First Name";
+"EmptyPatientAge_Title" = "Enter Patient's DOB";
+"AddComment_Text" = "Add Comment (Optional)";
+"Add_Patient_Title" = "Add Patient";
+"SubmitBtn_title" = "Submit";
+"UpdateBtn_title" = "Update";
+"reset" = "Reset";
+"start" = "Start";
+"Empty_SearchField" = "Search field shouldn't be empty";
+"Ok_Button" = "Ok";
+"Discard_Changes" = "Would you like to discard changes?";
+"Save_Changes" = "Would you like to save changed values";
+
+//Settings Module
+"Nas_Drive" = "NAS DRIVE";
+"Network_Storage" = "NETWORK STORAGE";
+"Manual_Network_Storage" = "MANUAL NETWORK STORAGE";
+"Friendly_Name" = "Friendly Name";
+"Path" = "Path";
+"Network_Path" = "Network Path";
+"Image_Import" = "Image Import & Export";
+"Video_Export" = "Video Export";
+"Log_File_Export" = "Log File Export";
+"General_Settings" = "General Settings";
+"NetworkStorage_Path" = "Please enter network storage path";
+"ImageImportExport_Path" = "Please enter path to import/export image";
+"VideoExport_Path" = "Please enter path to export video";
+"LogFileExport_Path" = "Please enter path to export logfile";
+"NetworkStorage_ConnectionError" = "Please check Network Storage Connection";
+"Wait_Msg" = "Please Wait";
+"Site_Name_Label" = "Site1";
+"Devices_Settings_Label" = "Devices";
+"Mode_Settings_Label" = "Modes";
+"Device_Name_Label" = "MICROSCOPE";
+"Star" = "Star";
+"ENT" = "ENT";
+"General_Surgery" = "General Surgery";
+"Panorama" = "Panorama";
+"Dental" = "Dental";
+"Peak" = "Peak";
+"Microscope_Feature_Label" = "MICROSCOPE FEATURE";
+"Primary_Purpose_Label" = "PRIMARY PURPOSE";
+"Smart_Second_Label" = "Select the number of seconds of video to add from history";
+"Demo_Mode_Label" = "Demo Mode";
+"URL_Lable" = "URL";
+"Theme_Label" = "Theme:";
+"Enable_Demo_Label" = "Enable Demo Mode";
+"Darker_Label" = "Darker";
+"Light_Label" = "Light";
+"MP4_Label" = "MP4";
+"JPEG_Label" = "JPEG";
+"Log_Event" = "Log Events";
+"Exceptions" = "Exceptions";
+"Image_Saving_Format" = "Image Saving Format";
+"Video_Saving_Format" = "Video Saving Format";
+
+//Patient Module
+"Patient_Modeule_Title"  = "PATIENT";
+"Patient_Search_Msg" = "Perform Patient Search above to see the list of patients here.";
+"Patient_NotificationMsg" = "!  NOTIFICATIONS IN THIS AREA (will appear only if required)";
+"Gender_Male_Label" = "Male";
+"Gender_Female_Label" = "Female";
+"Gender_Other_Label" = "Other";
+"Gender_Unknown_Label" = "Unknown";
+"Last_Name_Placeholder" = "Last Name";
+"First_Name_Placeholder" = "First name";
+"Age_Placeholder" = "DOB (dd-mm-yyyy)";
+"Add_Photo_Label" = "Add Photo";
+"Optional_Label" = "(Optional)";
+"Fav_Clear_Title" = "Clear";
+"Choose_Image" = "Choose Image";
+"Take_Photo" = "Take Photo";
+"Choose_Photo" = "Choose Photo";
+
+//new localization
+"AddToFavourites" = "Add To Favourites";
+"Delete" = "Delete";
+"AddToPin" = "Add Pin Images/Videos";
+"Editor" = "Editor";
+"PatientNameValidation"= "Please enter valid last name.";
+
+//Live Module
+"SessionClose_Alert" = "Session Close!";
+"SessionClose_Msg" = "Do you want to save current session data before closing?";
+"AletBtn_yes" = "YES";
+"AlertBtn_no" = "NO";
+"Maximum_Recording_Limit" = "Reached maximum video recording limit.";
+"Video_Recording_Stopped" = "Video Recording Stopped";
+
+//new localization
+"Pause" = "Pause";
+"Record" = "Record";
+
+//Storage level
+"LowSpace_Alert" = "Your iPad’s available memory has gone below 20% of the total available memory, please transfer your assets to a connected storage to release some memory.";
+
+"LowSpace_10_Alert" = "Your iPad’s available memory has gone below 10% of the total available memory, please transfer your assets to a connected storage to release some memory. If the memory goes below 10%, you will no longer be able to examine patients.";
+
+//General Settings Cell
+"VIDEOS" = "VIDEOS";
+"Select_LogLevel" = "SELECT LOG LEVEL";
+"Enable_Smart_Option"  = "Enable Smart Option";
+"Errors"     = "Errors";
+"Warnings"   = "Warnings";
+"Level1"     = "Level1";
+"Level2"     = "Level2";
+"Demo_Mode" = "Demo Mode";
+"Url" = "Url";
+"Saving_Formats" = "Saving Formats";
+"Default_Seconds_Picker" = "30s";
+"Smart_Video_Duration" = "Smart Video Duration";
+"Maximum_Video_Recording" = "Maximum Video Recording Time";
+"Enable_Demo_Mode" = "Enable Demo Mode";
+"Select_OPMI_Type"  = "Select OPMI type";
+"OPMI_Type" = "OPMI Type";
+
+//Navigation bar button labels
+"NAS" = "NAS";
+"SPACE" = "SPACE";
+"OPMI1" = "OPMI1";
+
+//Split View texts
+"Recorded_Video" = "Recorded Video";
+
+//Patient Demgraphic Attributes
+"Patient_Name" = "NAME";
+"Patient_Gender" = "GENDER";
+"Patient_Id" = "PID";
+"Patient_Dob" = "DOB";
+"Patient_Edit_Button_Title" = "Edit";
+"Patient_Multiple_Select" = "Select";
+"Session_Bar_Title" = "Session";
+"User_Favorites_Title" = "Favorites";
+"Session_Archive_Title" = "Archive";
+"Adding_To_Image_Basket_Button" = "AddImageBasket";
+"Search_TextField_Placeholder" = "Last Name/ Patient ID";
+"TabBar_Patient_Button_Title" = "Patient";
+"TabBar_Settings_Button_Title" = "Settings";
+"TabBar_Live_Button_Title" = "Live";
+"Cancel_Title" = "Cancel";
+"Character_Remaining" = "Characters Remaining: ";
+
+//Timer View texts
+"hours" = "hours";
+"hour" = "hour";
+"min"   = "min";
+"sec"   = "sec";
+"SecondTimerLabel" = "%ds";
+"MinutesTimerLabel" = "%dm %ds";
+"HoursTimerLabel" = " %dh %dm %ds";
+
+
+//Multiple action texts from session view
+"Export" = "Export";
+"Add_To_PinnedList" = "Pin Images/Videos";
+"Add_To_Favourites" = "Add To Favourites";
+"Error_NetWorkPath_NotSet" = "Network path is not set. Please set it from 'Settings'";
+"No_Pinned_ImagesAlert" = "You have not pinned any images.";
+"ErrorMsg_Empty_NetworkPath" = "Please enter valid Network Storage path";
+"NoCamera_Access_Warning" = "Please allow the user to access the camera from Privacy settings of the device.";
+"NoPhoto_Access_Warning" = "Please allow the user to access the Photos from Privacy settings of the device.";
+"Warning" = "Warning";
+"Done" = "Done";
+"Centimetre"       = "cm";
+"CentimetreSquare" = "cm²";
+"Tag_Search_Alert" = "Select any tag term to search for records.";
+"Duplicate_Tag_Alert" = "Tag already exists, please provide a new name.";
+"Tag_Search_Title" = "You searched for: %@";
+"Empty_Tag_Name" = "Enter tag name.";
+
+//New localization
+"AddText" = "Add Text";
+"Error" = "Error";
+"VideoAssetNOTLoaded" = "Video Asset NOT Loaded";
+"VideoSavingFailed" = "Video Saving Failed" ;
+"EditVideo" = "Edit Video";
+"AddTagsToVideo" = "Add Tags To Video";
+"AlertBeforeDeletingTag" = "Are you sure you want to delete this tag? Deleting this tag will also delete all the tagged info.";
+"FormatPinnedImagesof" = "Pinned Images of";
