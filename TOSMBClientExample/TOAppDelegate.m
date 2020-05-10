@@ -26,7 +26,6 @@
     
     NSLog(@"Update Web-hook");
     
-    NSLog(@"Update Web-hook");
     
     return YES;
 }
