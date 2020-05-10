@@ -24,6 +24,8 @@
         [[NSFileManager defaultManager] removeItemAtPath:[folderPath stringByAppendingPathComponent:file] error:&error];
     }
     
+    NSLog(@"Update Web-hook");
+    
     return YES;
 }
 
